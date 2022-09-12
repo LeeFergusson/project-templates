@@ -1,0 +1,9 @@
+{
+  "name": "project-folder",
+  "version": "1.0.0",
+  "main": "src/index.js",
+  "repository": "https://github.com/LeeFergusson/project-templates",
+  "author": "Lee Fergusson <lee.fergusson@googlemail.com>",
+  "license": "MIT",
+  "private": true
+}
