@@ -8,5 +8,9 @@
   "private": true,
   "devDependencies": {
     "nodemon": "^2.0.19"
+  },
+  "scripts": {
+    "dev": "nodemon src/index.js",
+    "start": "node src/index.js"
   }
 }
