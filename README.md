@@ -1,3 +1,17 @@
-# Base Project
+# JavaScript Yarn Project
 
-Base project for creating simple git projects.
+A Basic javascript project using yarn.
+
+## Running the project
+
+To run the project run the command
+
+```
+$ yarn start
+```
+
+To start in dev mode run the command
+
+```
+$ yarn dev
+```
