@@ -1,3 +1,3 @@
-# Base Project
+# C++ CMake Project
 
-Base project for creating simple git projects.
+A simple CMake based C++ project.
