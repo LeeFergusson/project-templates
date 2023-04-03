@@ -1,3 +1,3 @@
-# Base Project
+# LaTeX Project
 
-Base project for creating simple git projects.
+Project template for creating simple LaTeX projects.
