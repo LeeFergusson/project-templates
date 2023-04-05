@@ -1,3 +1,3 @@
-# Base Project
+# C Project
 
-Base project for creating simple git projects.
+Template for creating simple c projects.
