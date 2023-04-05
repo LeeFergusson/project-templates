@@ -1,3 +1,3 @@
-# C Project
+# C++ Project
 
-Template for creating simple c projects.
+Template for creating simple C++ projects.
